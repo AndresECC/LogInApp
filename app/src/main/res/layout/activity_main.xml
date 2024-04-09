@@ -64,4 +64,15 @@
         android:layout_margin="20dp"
         />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/testbtn"
+        android:layout_below="@+id/loginbtn"
+        android:text="Test"
+        android:backgroundTint="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        />
+
 </RelativeLayout>
